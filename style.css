@@ -17,3 +17,9 @@ body{
 .title-color{
     color: #ffff;
 }
+.nav-link{
+    color: #ffff;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #ffff;
+}
